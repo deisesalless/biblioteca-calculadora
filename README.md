@@ -28,4 +28,4 @@
 </ol>
 
 <h2>Contato</h2>
-<p>Para sugestões, dúvidas ou problemas relacionados ao projeto, entre em contato através do email <strong>deisesalles18@gmail.com</strong> ou <strong><a href="https://www.linkedin.com/in/deise-sales-059612174/">LinkedIn<a/></strong>.</p>
+<p>Para sugestões, dúvidas ou problemas relacionados ao projeto, entre em contato através do email <strong>deisesalles18@gmail.com</strong> ou <strong><a href="https://www.linkedin.com/in/deise-sales-059612174/" target="_blank" rel="external">LinkedIn<a/></strong>.</p>
